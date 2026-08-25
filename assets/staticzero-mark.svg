@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">STATICZERO Control Gate mark</title>
+  <desc id="desc">Two controlled planes converge on a protected central zero point.</desc>
+  <rect width="64" height="64" rx="14" fill="#22D3C5"/>
+  <path d="M13 15h16l10 17-10 17H13l10-17z" fill="#07131F"/>
+  <path d="M51 15H35L25 32l10 17h16L41 32z" fill="#0B3045"/>
+  <path d="m32 24 8 8-8 8-8-8z" fill="#C7F36B"/>
+  <path d="m32 28 4 4-4 4-4-4z" fill="#07131F"/>
+</svg>
