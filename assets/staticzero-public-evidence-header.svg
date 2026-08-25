@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
-  <title id="title">STATICZERO public evidence repository</title><desc id="desc">STATICZERO Control Gate identity for the public evidence repository.</desc>
+  <title id="title">STATICZERO public evidence repository</title><desc id="desc">STATICZERO Zero Corridor identity for the public evidence repository.</desc>
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131F"/><stop offset="1" stop-color="#0B3045"/></linearGradient></defs>
   <rect width="1280" height="640" fill="url(#bg)"/><path d="M0 0h420L220 320l200 320H0z" fill="#22D3C5" opacity=".1"/><path d="M1280 0H860l200 320-200 320h420z" fill="#C7F36B" opacity=".045"/>
-  <g transform="translate(596 82) scale(1.375)"><rect width="64" height="64" rx="14" fill="#22D3C5"/><path d="M13 15h16l10 17-10 17H13l10-17z" fill="#07131F"/><path d="M51 15H35L25 32l10 17h16L41 32z" fill="#0B3045"/><path d="m32 24 8 8-8 8-8-8z" fill="#C7F36B"/><path d="m32 28 4 4-4 4-4-4z" fill="#07131F"/></g>
+  <g transform="translate(596 82) scale(1.375)"><rect width="64" height="64" rx="14" fill="#22D3C5"/><path d="M12 14h40v12H33l19 12v12H12V38h19L12 26z" fill="#07131F"/><path d="M29 27h6v10h-6z" fill="#C7F36B"/></g>
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle"><text x="640" y="286" fill="#F5F8F9" font-size="76" font-weight="800" letter-spacing="-3">STATICZERO™</text><text x="640" y="340" fill="#C7F36B" font-size="24" font-weight="700" letter-spacing="3">PUBLIC EVIDENCE</text><text x="640" y="406" fill="#C9D8E1" font-size="28">Results · scope · reproducible checks</text><text x="640" y="488" fill="#22D3C5" font-size="22" font-weight="700">github.com/danishlogic0/staticzero-public-benchmark</text></g>
 </svg>
