@@ -1,6 +1,22 @@
 # STATICZERO™
 
-STATICZERO™ is proprietary cybersecurity software developed for companies, public authorities, regulated IT environments and strategic technology partners.
+STATICZERO™ is a universal, independent and cloud-neutral architecture that proves persistent absence.
+
+`STATICZERO_TECHNICAL_CONFORMANCE=CLOSED_PASS`
+
+## Run it. See for yourself.
+
+STATICZERO is technically established. The free public Impact Experience lets
+an organization run customer-selected baseline and STATICZERO commands in its
+own relevant environment and measure customer-specific value.
+
+- Impact Experience: https://staticzero.online/impact/
+- English Impact Experience: https://staticzero.online/en/impact/
+- [Download the public runner](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/staticzero-impact-experience-001.tar.gz)
+- [Verify the public bundle metadata](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/PUBLIC_BUNDLE.json)
+
+Customer-run metrics measure impact; they do not reopen or replace Technical
+Conformance.
 
 ## Business value
 
@@ -16,13 +32,15 @@ STATICZERO™ is positioned around:
 The official public website presents approved commercial information, documented value and contact routes:
 
 - Website: https://staticzero.online/
-- Results and value: https://staticzero.online/evidens/
+- Impact and value: https://staticzero.online/impact/
+- Results and evidence: https://staticzero.online/evidens/
 - Contact: https://staticzero.online/kontakt/
 - English: https://staticzero.online/en/
 
 ## Collaboration
 
-Commercial dialogue is relevant for customer applications, bounded pilots, technology partnerships, investment and international scaling.
+Measured impact can lead to a Workload License, Capability License, Enterprise
+License, Tailored Deployment, Partnership or an optional Structured Evaluation.
 
 ## Intellectual-property boundary
 
