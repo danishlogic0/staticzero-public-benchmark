@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
-  <title id="title">STATICZERO Zero Corridor mark</title>
-  <desc id="desc">A controlled angular transition passes through a bounded central gate.</desc>
-  <rect width="64" height="64" rx="14" fill="#22D3C5"/>
-  <path d="M12 14h40v12H33l19 12v12H12V38h19L12 26z" fill="#07131F"/>
-  <path d="M29 27h6v10h-6z" fill="#C7F36B"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-labelledby="title desc"><title id="title">D1 Zero Signature</title><desc id="desc">A bold faceted zero loop with a deliberate interruption and blue signature point.</desc><defs><linearGradient id="d1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#315675"/><stop offset=".52" stop-color="#142A3D"/><stop offset="1" stop-color="#0B1A29"/></linearGradient><mask id="cut"><rect width="180" height="180" fill="#fff"/><path d="M117 27l34 34-18 18-34-34z" fill="#000"/></mask></defs><path d="M90 13l77 77-77 77-77-77zm0 42L55 90l35 35 35-35z" fill="url(#d1)" fill-rule="evenodd" mask="url(#cut)"/><rect x="120" y="44" width="17" height="17" rx="3" transform="rotate(45 128.5 52.5)" fill="#2A67FF"/></svg>

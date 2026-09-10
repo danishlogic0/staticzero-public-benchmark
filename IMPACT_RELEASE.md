@@ -1,4 +1,4 @@
-# STATICZERO™ Public Impact Experience 1.0.0
+# STATICZERO™ Public Impact Experience 1.1.0
 
 **Run it. See for yourself.**
 
@@ -10,5 +10,7 @@ Integrity artifacts accompany the archive. The public bundle contains no
 proprietary product binary or signing key. Product execution uses a separately
 supplied approved STATICZERO evaluation artifact.
 
-Customer-run observations are commercial impact evidence and do not change
-`STATICZERO_TECHNICAL_CONFORMANCE=CLOSED_PASS`.
+Your environment. Your workload. Your measured STATICZERO impact.
+
+This release introduces the canonical D1 Zero Signature and W1 Precision Wide
+identity across the public repository and Impact assets.

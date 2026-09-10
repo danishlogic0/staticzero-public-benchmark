@@ -1,33 +1,33 @@
 # STATICZERO™
 
+![STATICZERO — reproduce the evidence](assets/staticzero-public-evidence-header.svg)
+
 STATICZERO™ is a universal, independent and cloud-neutral architecture that proves persistent absence.
 
 `STATICZERO_TECHNICAL_CONFORMANCE=CLOSED_PASS`
 
 ## Run it. See for yourself.
 
-STATICZERO is technically established. The free public Impact Experience lets
-an organization run customer-selected baseline and STATICZERO commands in its
-own relevant environment and measure customer-specific value.
+Run STATICZERO in your environment. Measure the difference. See the value in
+your own numbers.
 
 - Impact Experience: https://staticzero.online/impact/
 - English Impact Experience: https://staticzero.online/en/impact/
 - [Download the public runner](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/staticzero-impact-experience-001.tar.gz)
 - [Verify the public bundle metadata](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/PUBLIC_BUNDLE.json)
 
-Customer-run metrics measure impact; they do not reopen or replace Technical
-Conformance.
+Your environment. Your workload. Your measured STATICZERO impact.
 
 ## Business value
 
-STATICZERO™ is positioned around:
+Measure what STATICZERO changes in:
 
-- documented performance;
-- data control;
-- cloud economics;
-- digital sovereignty;
-- verifiable results; and
-- responsible use of AI in business-critical environments.
+- cloud and infrastructure economics;
+- latency, execution performance and resource use;
+- persistent exposure and security position;
+- infrastructure independence and portability;
+- operational flow, retries and complexity; and
+- customer-specific monthly and annual value.
 
 The official public website presents approved commercial information, documented value and contact routes:
 
@@ -41,6 +41,12 @@ The official public website presents approved commercial information, documented
 
 Measured impact can lead to a Workload License, Capability License, Enterprise
 License, Tailored Deployment, Partnership or an optional Structured Evaluation.
+
+## Reproduce the evidence
+
+The release artifacts include the public Impact runner, exact bundle metadata,
+an integrity seal and checksum manifest. Technical details remain available as
+drill-down while the customer journey stays focused on measurable outcomes.
 
 ## Intellectual-property boundary
 
