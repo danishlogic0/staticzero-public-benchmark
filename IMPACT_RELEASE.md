@@ -2,9 +2,10 @@
 
 **Run it. See for yourself.**
 
-The release contains the public, payload-blind measurement runner used to
-produce a customer-specific impact result for economics, performance,
-security-relevant persistence, infrastructure independence and operations.
+The release contains the public, payload-blind measurement toolkit and self-test
+harness used to prepare customer-specific impact measurement for economics,
+performance, security-relevant persistence, infrastructure independence and
+operations.
 
 Integrity artifacts accompany the archive. The public bundle contains no
 proprietary product binary or signing key. Product execution uses a separately

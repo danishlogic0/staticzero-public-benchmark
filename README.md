@@ -8,15 +8,30 @@ STATICZERO™ is a universal, independent and cloud-neutral architecture that pr
 
 ## Run it. See for yourself.
 
-Run STATICZERO in your environment. Measure the difference. See the value in
-your own numbers.
+Run the live public proof in your browser. No account, installation, upload or
+customer data is required. The service performs a real server-side execution,
+returns the measured result and issues a signed, payload-blind receipt.
 
-- Impact Experience: https://staticzero.online/impact/
-- English Impact Experience: https://staticzero.online/en/impact/
-- [Download the public runner](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/staticzero-impact-experience-001.tar.gz)
-- [Verify the public bundle metadata](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/PUBLIC_BUNDLE.json)
+- Live public evaluation: https://evaluate.staticzero.online/
+- Machine API and discovery: https://evaluate.staticzero.online/api
+- OpenAPI contract: https://evaluate.staticzero.online/openapi.json
+- Public verification key: https://evaluate.staticzero.online/api/public-key
+- [Machine-client instructions](PUBLIC_EVALUATION.md)
 
-Your environment. Your workload. Your measured STATICZERO impact.
+The public evaluation proves the documented state change. Your workload reveals
+the magnitude of the business value.
+
+## Measure your workload
+
+The downloadable public archive is a measurement toolkit and self-test harness.
+It does **not** contain the proprietary STATICZERO product binary. Running a
+customer workload against STATICZERO requires a separately supplied, approved
+evaluation artifact and scope.
+
+- Impact and commercial path: https://staticzero.online/impact/
+- English impact and commercial path: https://staticzero.online/en/impact/
+- [Download the measurement toolkit](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/staticzero-impact-experience-001.tar.gz)
+- [Inspect the public bundle metadata](https://github.com/danishlogic0/staticzero-public-benchmark/releases/latest/download/PUBLIC_BUNDLE.json)
 
 ## Business value
 
@@ -44,9 +59,9 @@ License, Tailored Deployment, Partnership or an optional Structured Evaluation.
 
 ## Reproduce the evidence
 
-The release artifacts include the public Impact runner, exact bundle metadata,
-an integrity seal and checksum manifest. Technical details remain available as
-drill-down while the customer journey stays focused on measurable outcomes.
+The release artifacts include the public measurement toolkit, exact bundle
+metadata, an integrity seal and checksum manifest. The archive can validate its
+measurement workflow; it does not substitute for a licensed product artifact.
 
 ## Intellectual-property boundary
 
