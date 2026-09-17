@@ -1,17 +1,11 @@
 # STATICZERO™ Public Impact Experience 1.1.0
 
-**Run it. See for yourself.**
+**Run the live public proof:** https://evaluate.staticzero.online/
 
-The release contains the public, payload-blind measurement toolkit and self-test
-harness used to prepare customer-specific impact measurement for economics,
-performance, security-relevant persistence, infrastructure independence and
-operations.
+No account, installation, upload or customer data is required. The evaluator performs a real server-side execution and returns a signed, payload-blind receipt that can be verified from the same public interface.
 
-Integrity artifacts accompany the archive. The public bundle contains no
-proprietary product binary or signing key. Product execution uses a separately
-supplied approved STATICZERO evaluation artifact.
+The downloadable release is a historical public measurement toolkit and self-test harness. It is not the live proof and does not contain the proprietary STATICZERO product binary or signing key.
 
-Your environment. Your workload. Your measured STATICZERO impact.
+For every current Run it, Run the proof or verify-yourself journey, use the evaluator link above.
 
-This release introduces the canonical D1 Zero Signature and W1 Precision Wide
-identity across the public repository and Impact assets.
+This release preserves the canonical D1 Zero Signature and W1 Precision Wide identity across the public repository and Impact assets.
