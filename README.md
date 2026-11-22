@@ -7,9 +7,10 @@ Danish Logic-0's benchmark and evidence material. It documents two things: how i
 is measured without access to a workload payload, and the boundary conditions under
 which a bounded measurement is published at all.
 
-This repository currently provides descriptive documentation of the impact-runner
-approach and its publication boundary. It does not publish benchmark results or
-open-source specification and verifier artefacts.
+This repository provides descriptive documentation of the impact-runner
+approach and its publication boundary, together with an independent reference
+implementation under Apache-2.0. It publishes no benchmark results, and no
+specification, conformance corpus or verifier artefacts.
 
 ## Status of earlier published material
 
@@ -82,3 +83,15 @@ concepts used in in-toto/DSSE, IETF RATS and IETF SCITT.
 - Website: https://staticzero.online
 - Governance and architecture overview: https://staticzero.online/logic-0/
 - Design properties and scoping: https://staticzero.online/evidence/
+
+## Build and test
+
+Requires a stable Rust toolchain.
+
+    cargo build --release
+    cargo test
+
+`cargo test` runs the unit and integration tests, including the case asserting that no
+workload output reaches the report. The binary writes its report to stdout, or to a file
+with `--output`.
+
