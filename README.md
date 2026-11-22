@@ -8,8 +8,8 @@ is measured without access to a workload payload, and the boundary conditions un
 which a bounded measurement is published at all.
 
 This repository provides descriptive documentation of the impact-runner
-approach and its publication boundary, together with an independent reference
-implementation under Apache-2.0. It publishes no benchmark results, and no
+approach and its publication boundary, together with a standalone experimental
+impact-measurement implementation licensed under Apache-2.0. It publishes no benchmark results, and no
 specification, conformance corpus or verifier artefacts.
 
 ## Status of earlier published material
@@ -91,7 +91,8 @@ Requires a stable Rust toolchain.
     cargo build --release
     cargo test
 
-`cargo test` runs the unit and integration tests, including the case asserting that no
-workload output reaches the report. The binary writes its report to stdout, or to a file
+`cargo test` runs the unit and integration tests, including a test checking that
+specific secret bytes supplied through arguments, stdout, stderr and a residual file
+are not reproduced in the report. The binary writes its report to stdout, or to a file
 with `--output`.
 
